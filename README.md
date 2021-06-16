@@ -1,5 +1,7 @@
 # Detection of Colon Cancer and its Cell Types using Histopathological Images: A deep learning approach
 
+## Author: Nischay Thapa
+
 Colorectal cancer (colon cancer) is a type of chronic illness that affects the colon and rectum of an individual and is the cause of the second most cancer-related deaths in the US. Pathologists perform tissue-based diagnosis using a microscope to classify cell nuclei from Routine Colon Cancer images. Several CNN models like RCCNet, VGG-16 have demonstrated superior results in classifying colon cancer cells. In this project, we summarize our findings by analyzing several deep learning architectures to classify images according to cell type and whether the cell image represents a cancerous cell. 
 
 ## Data Information
